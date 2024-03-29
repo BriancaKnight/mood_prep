@@ -2,8 +2,9 @@
 
 ## Project Idea:
 
-### MOO'D
-##### Emotional Regulation App specifically designed for children. The app aims to teach children how to identify emotions as well as provide sensory regulation tools through engaging activities. Intended to be used in collaboration with a parent or guardian.
+### MOO'D 
+#### An Emotional Regulation App specifically designed for children. 
+This app aims to teach children how to identify emotions as well as provide sensory regulation tools through engaging activities. Intended to be used in collaboration with a parent or guardian.
 
 
 ### Research & Planning Log
