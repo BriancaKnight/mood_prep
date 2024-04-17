@@ -46,6 +46,7 @@
 		D7E2CC272BD029DC0062D502 /* MOODUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOODUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D7E2CC342BD02A220062D502 /* capstone-proposal.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "capstone-proposal.md"; sourceTree = "<group>"; };
 		D7E2CC352BD02A500062D502 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D7E2CC372BD034C10062D502 /* capstone-log.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "capstone-log.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 		D7E2CBFE2BD029D70062D502 = {
 			isa = PBXGroup;
 			children = (
+				D7E2CC372BD034C10062D502 /* capstone-log.md */,
 				D7E2CC352BD02A500062D502 /* README.md */,
 				D7E2CC342BD02A220062D502 /* capstone-proposal.md */,
 				D7E2CC092BD029D70062D502 /* MOOD */,
